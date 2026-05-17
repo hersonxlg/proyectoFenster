@@ -1,0 +1,7 @@
+# --- Carpetas temporales de XMake ---
+.xmake/
+build/
+
+# --- Base de datos del LSP (Neovim/VS Code) ---
+compile_commands.json
+.clangd/
